@@ -3,6 +3,10 @@
 ## Project Overview
 This project analyses retail sales and profitability using Microsoft Excel. The dashboard provides insights into sales performance, profit margins, product categories, regions, discounts, and customer segments.
 
+## Dashboard Preview
+
+![Sales & Profit Performance Dashboard](Sales-Profit-Dashboard-GitHub-Preview.png)
+
 ## Tools Used
 - Microsoft Excel
 - PivotTables and PivotCharts
