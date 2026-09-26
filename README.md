@@ -12,6 +12,24 @@ This project analyses retail sales and profitability using Microsoft Excel. The 
 - PivotTables and PivotCharts
 - Excel charts and KPI cards
 
+## Key Business Insights
+
+- Technology was the highest-selling category, generating approximately $836,154 in sales.
+- California was the highest-selling state, generating approximately $457,688 in sales and $76,381 in profit.
+- 2017 was the strongest year, recording approximately $733,215 in sales and $93,439 in profit.
+- Texas generated approximately $170,188 in sales but recorded a loss of approximately $25,729.
+- Furniture generated approximately $742K in sales but had a relatively low profit margin of 2.49%.
+
+## Skills Demonstrated
+
+- Microsoft Excel
+- Data Cleaning and Preparation
+- Pivot Tables
+- Data Visualization
+- Dashboard Creation
+- Sales and Profit Analysis
+- Business Insights
+
 ## Key Performance Indicators
 | KPI | Result |
 |---|---:|
