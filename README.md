@@ -59,7 +59,6 @@ This project analyses retail sales and profitability using Microsoft Excel. The 
 
 - [Excel Workbook](SALES%20%26%20ROFIT%20PERFORMANCE%20DASHBOARD.xlsx) – Dashboard and analysis
 - [PDF Portfolio](SUPERSTORE%20SALES%20%5E0%20PROFIT%20PORTFOLIO.pdf) – Project presentation and results
-- [PowerPoint Presentation](SUPERSTORE%20SALES%20%5E0%20PROFIT%20PORTFOLIO.pptx) – Project presentation
 
 ## Author
 Manasa A
